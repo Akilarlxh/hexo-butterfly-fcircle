@@ -48,4 +48,4 @@
   |front_matter|object|【可选】写法见上文示例，fcircle页面的 front_matter 配置|
 
 # 截图
-  ![](https://cdn.jsdelivr.net/gh/Akilarlxh/Picgo/assets/Friend-link-subscription-dfbba739.png)
+  ![](https://cdn.jsdelivr.net/npm/akilar-candyassets/Friend-link-subscription-dfbba739.png)
