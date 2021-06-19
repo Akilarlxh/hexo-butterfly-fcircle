@@ -1,4 +1,4 @@
-# hexo-butterfly-envelope
+# hexo-butterfly-fcircle
 
 给`hexo-theme-butterfly`添加 [友链朋友圈](https://akilar.top/posts/8480b91c/)
 
