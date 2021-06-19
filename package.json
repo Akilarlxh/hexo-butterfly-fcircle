@@ -1,6 +1,6 @@
 {
   "name": "hexo-butterfly-fcircle",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A friend link subscribe plugin for theme-butterfly",
   "main": "index.js",
   "scripts": {
@@ -28,7 +28,7 @@
     "pug": "^3.0.0"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/Akilarlxh/hexo-butterfly-fcircle.git"
+    "type": "git",
+    "url": "https://github.com/Akilarlxh/hexo-butterfly-fcircle.git"
   }
 }
