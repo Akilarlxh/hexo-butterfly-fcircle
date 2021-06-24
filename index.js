@@ -5,7 +5,7 @@ const path = require('path')
 const urlFor = require('hexo-util').url_for.bind(hexo)
 const util = require('hexo-util')
 hexo.extend.generator.register('fcircle', function (locals) {
-  const config = hexo.config.fcircle || hexo.theme.config.fcircle
+  const config = hexo.config.fcircle ? hexo.config.fcircle : hexo.theme.config.fcircle
 
   if (!(config && config.enable)) return
 
